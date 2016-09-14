@@ -1,4 +1,4 @@
-# generator-apigee-seed [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-apigee-seed [![NPM version][npm-image]][npm-url] 
 > Generator to generate scafolding to seedify your project/sample/solution to work with Apigee Seed
 
 ## Installation
