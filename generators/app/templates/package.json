@@ -1,0 +1,17 @@
+{
+  "name": "<%= sample_name %>",
+  "version": "0.0.1",
+  "description": "<%= sample_description %>",  
+  "directories": {
+    "test": "test"
+  },
+  "dependencies":{
+    "gulp":"*",
+    "gulp-util": "*",
+    "chai":"*",
+    "apigeetool" : "mukundha/apigeetool-node",
+    "seed-sdk" : "mukundha/seed-sdk"
+  },
+   "author": "<%= sample_author%>",
+  "license": "Apache-2.0"
+}
