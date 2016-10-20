@@ -9,7 +9,7 @@
     "gulp":"*",
     "gulp-util": "*",
     "chai":"*",
-    "apigeetool" : "mukundha/apigeetool-node",
+    "apigeetool" : "*",
     "seed-sdk" : "mukundha/seed-sdk"
   },
    "author": "<%= sample_author%>",
