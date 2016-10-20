@@ -1,6 +1,6 @@
 {
   "name": "generator-apigee-seed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generator to generate scafolding to seedify your project/sample/solution to work with Apigee Seed",
   "homepage": "apigee.com",
   "author": {
